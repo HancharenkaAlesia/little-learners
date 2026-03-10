@@ -6,11 +6,26 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Minista](https://img.shields.io/badge/Minista-000000?style=for-the-badge)
 
+---
+
 Little Learners is a responsive educational platform web-site built with **Minista**, using **HTML5, CSS3, and JavaScript** for a clean and maintainable front-end structure. The project focuses on modern layout techniques and reusable components.
+
+---
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://developer-online.com/portfolio/little-learners/)
 
 https://developer-online.com/portfolio/little-learners/
+
+---
+
+## 📌 Project Info
+
+Type: Landing Page  
+Stack: HTML, CSS, JavaScript, Vite, Minista  
+Responsive: Desktop / Tablet / Mobile  
+Purpose: Portfolio Project
+
+---
 
 ✨ Features
 
@@ -19,6 +34,8 @@ https://developer-online.com/portfolio/little-learners/
 * Reusable component-based structure
 * Semantic and accessible HTML markup
 * Well-structured styles and maintainable code
+
+---
 
 🛠 Tech Stack
 
@@ -29,9 +46,13 @@ https://developer-online.com/portfolio/little-learners/
 * **Vite** — fast development and build tool
 * **Responsive layout techniques** — Flexbox and Grid
 
+---
+
 📷 Screenshots
 
 ![Homepage Desktop](./ll.gif)
+
+---
 
 📌 Project Purpose
 
