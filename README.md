@@ -1,6 +1,10 @@
 # Little Learners
 
-HTML • CSS • JavaScript • Vite • Minista
+![HTML](...)
+![CSS](...)
+![JavaScript](...)
+![Vite](...)
+![Minista](...)
 
 Little Learners is a responsive educational platform web-site built with **Minista**, using **HTML5, CSS3, and JavaScript** for a clean and maintainable front-end structure. The project focuses on modern layout techniques and reusable components.
 
