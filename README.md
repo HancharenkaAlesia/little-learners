@@ -20,7 +20,7 @@ https://developer-online.com/portfolio/little-learners/
 
 ## 📌 Project Info
 
-Type: Landing Page  
+Type: Multi-page website
 Stack: HTML, CSS, JavaScript, Vite, Minista  
 Responsive: Desktop / Tablet / Mobile  
 Purpose: Portfolio Project
