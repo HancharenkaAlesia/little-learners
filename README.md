@@ -30,9 +30,7 @@ https://developer-online.com/portfolio/little-learners/
 
 📷 Screenshots
 
-![Homepage Desktop](./ll-desc.png)
-
-![Homepage Desktop](./ll-mob.png)
+![Homepage Desktop](./ll.gif)
 
 📌 Project Purpose
 
