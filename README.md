@@ -25,10 +25,10 @@ https://developer-online.com/portfolio/little-learners/
 📷 Screenshots
 
 Desktop
-Homepage Desktop
+![Homepage Desktop](./ll-desc.png)
 
 Mobile
-Homepage Mobile
+![Homepage Desktop](./ll-mob.png)
 
 📌 Project Purpose
 
